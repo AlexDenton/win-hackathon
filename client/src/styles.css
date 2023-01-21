@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html {
+  font-size: 21px;
+}
+
+button {
+  font-size: inherit;
+  padding: 1rem;
+}
